@@ -20,6 +20,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.2",
     "mongoose": "^6.1.5",
+    "node": "^17.7.1",
     "validation": "^0.0.1"
   },
   "devDependencies": {
